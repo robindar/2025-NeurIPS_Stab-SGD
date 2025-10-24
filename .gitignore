@@ -1,0 +1,6 @@
+measurements/*.json
+!measurements/.gitkeep
+export/*.csv
+!export/.gitkeep
+resnet-experiment/data
+resnet-experiment/results
